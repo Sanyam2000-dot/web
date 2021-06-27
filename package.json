@@ -1,5 +1,5 @@
 {
-    "homepage": "http://localhost:3000/web",
+    "homepage": "https://open-web-app.herokuapp.com/web",
     "name": "web",
     "version": "0.1.0",
     "private": true,
